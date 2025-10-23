@@ -18,11 +18,3 @@ I build end-to-end products across web and mobile:
 **DevOps / Cloud:** GitHub Actions (CI/CD), Docker, Docker Compose, Vercel, Render/Fly/Netlify, AWS basics  
 **Quality:** Jest/RTL, Playwright/Cypress, ESLint, Prettier  
 **Security & UX:** OWASP basics, input validation, secure auth/roles · Accessibility, design systems
-
-
-
-
-
-
-### Pinned repositories
-Pin 4–6 repos that best show your MERN + React Native + CI/CD work, each with a one-line value and (ideally) a demo link.
