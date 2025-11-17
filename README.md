@@ -1,20 +1,50 @@
-<h1 align="center">Hi, I'm [Minoo] 👋</h1>
-<p align="center">
-Full-stack MERN developer · React Native (Expo) · CI/CD & Cloud · Security-aware · UX/UI minded
+# Hi there! 👋  
+I'm **Minoo** — a passionate **Full-Stack Developer**.
+
+I work mainly with the **MERN stack**, and I'm also interested in mobile development using **React Native**, **Expo**, and **TypeScript**.  
+I enjoy front-end design, care deeply about **SEO**, and take **web security** seriously in every project.  
+
+I’m comfortable working with **cloud technologies**, and I’m always excited to learn new tools, frameworks, and technologies.  
+Always learning, always building. 🚀
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-## About me
-I build end-to-end products across web and mobile:
-- Frontend with **React/Next.js**, backend with **Node.js/python/Express**, database on **MongoDB/MariaDB** (plus SQL when needed)
-- **Mobile** apps using **React Native (Expo)**
-- **CI/CD** pipelines and **cloud** deployments (containers & serverless)
-- **Security-aware** code and a strong **UX/UI** focus
+---
 
-## Skills & Tools
-**Frontend:** React, Javascript, TypeScript, Redux/Zustand, CSS Modules/Tailwind  
-**Backend:** Node.js, Express, REST,Python, GraphQL, JWT/Auth, WebSockets  
-**Mobile:** React Native, Expo, OTA updates, native modules basics  
-**Databases:** MongoDB, PostgreSQL, Prisma/Mongoose  
-**DevOps / Cloud:** GitHub Actions (CI/CD), Docker, Docker Compose, Vercel, Render/Fly/Netlify, AWS basics  
-**Quality:** Jest/RTL, Playwright/Cypress, ESLint, Prettier  
-**Security & UX:** OWASP basics, input validation, secure auth/roles · Accessibility, design systems
+## 🚀 What I'm Interested In
+- Full-Stack Web Development (MERN)
+- Mobile apps with **React Native** & **Expo**
+- UX/UI design  
+- SEO optimization  
+- Web security practices  
+- Cloud technologies  
+- Continuous learning & improving 🌱  
+
+---
+
+## 📫 Reach Me
+minoo.yaghoubi@gmail.com
+
+---
+
+<!-- Optional GitHub stats section -->
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=Minoo-YH)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-YH&layout=compact)
+-->
