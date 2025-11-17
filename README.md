@@ -1,17 +1,12 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/9JkQK6K.png" width="800"/>
-</p>
-
 <h1 align="center">Hi there 👋 I'm <span style="color:#ff4da6">Minoo</span></h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Mobile Developer | Cloud Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Mobile Dev | Cloud Enthusiast</h3>
 
 ---
 
-## ✨ About Me  
-I’m a passionate **Full-Stack Developer** with strong experience in MERN stack and growing interest in **mobile development** using React Native + Expo.  
-I enjoy creating clean UI/UX, building modern applications, and I care about **security**, **SEO**, and **scalable architectures**.  
-Cloud technologies are a big part of my learning path — always excited to explore new tools! 🚀
+## ✨ About Me
+I’m a passionate **Full-Stack Developer** with experience in MERN and interest in **mobile development** using React Native + Expo.  
+I love building clean UI/UX, scalable architectures, and I care about **security**, **SEO**, and cloud technologies.  
+Always learning & always improving 🚀
 
 ---
 
@@ -54,12 +49,12 @@ Cloud technologies are a big part of my learning path — always excited to expl
 ---
 
 ## 🚀 Interests
-- Full-Stack (MERN)  
-- Mobile apps with React Native + Expo  
-- UX/UI & clean design  
-- Cloud technologies (AWS, Azure)  
-- Website security & SEO  
-- Docker, Kubernetes, CI/CD  
+- Full-Stack (MERN)
+- React Native + Expo
+- UI/UX & clean design
+- AWS & Azure cloud
+- Security & SEO
+- Docker, Kubernetes, microservices
 
 ---
 
@@ -68,12 +63,10 @@ minoo.yaghoubi@gmail.com
 
 ---
 
-<!-- Optional stats -->
+<!-- Optional Stats -->
 <!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Minoo-YH&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-YH&layout=compact&theme=tokyonight"/>
 </p>
--->
-YH&layout=compact)
 -->
