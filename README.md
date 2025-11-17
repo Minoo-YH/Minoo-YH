@@ -1,23 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/b6H6VYb.gif" width="800"/>
+  <img src="https://i.imgur.com/9JkQK6K.png" width="800"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm <span style="color:#ff66cc">Minoo</span></h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Mobile Dev | Cloud Enthusiast 🚀</h3>
+<h1 align="center">Hi there 👋 I'm <span style="color:#ff4da6">Minoo</span></h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Mobile Developer | Cloud Enthusiast</h3>
 
 ---
 
-## ✨ About Me
-I’m a passionate **Full-Stack Developer** who enjoys turning ideas into clean, scalable applications.  
-Specialized in **MERN**, interested in **React Native + Expo**, and always exploring new tech.  
-I care deeply about **UI/UX**, **SEO**, **security**, and **cloud infrastructure**.
-
-🔥 Always learning. Always building. Always improving.
+## ✨ About Me  
+I’m a passionate **Full-Stack Developer** with strong experience in MERN stack and growing interest in **mobile development** using React Native + Expo.  
+I enjoy creating clean UI/UX, building modern applications, and I care about **security**, **SEO**, and **scalable architectures**.  
+Cloud technologies are a big part of my learning path — always excited to explore new tools! 🚀
 
 ---
 
-## 🎨 Tech Stack (with GIF & Icons)
+## 🧰 Tech Stack
 
 ### **Frontend**
 <p>
@@ -41,7 +39,7 @@ I care deeply about **UI/UX**, **SEO**, **security**, and **cloud infrastructure
 ### **Mobile Development**
 <p>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="42" src="https://i.gifer.com/7VE.gif"/>
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 </p>
 
 ### **DevOps / Cloud**
@@ -55,22 +53,13 @@ I care deeply about **UI/UX**, **SEO**, **security**, and **cloud infrastructure
 
 ---
 
-## 🌐 Fun Animated Icons
-<p align="center">
-  <img src="https://i.imgur.com/SMqK1.gif" width="120"/>
-  <img src="https://i.imgur.com/EdF3R.gif" width="120"/>
-  <img src="https://i.imgur.com/yU5K7.gif" width="120"/>
-</p>
-
----
-
 ## 🚀 Interests
-- Full-Stack Development (MERN)  
+- Full-Stack (MERN)  
 - Mobile apps with React Native + Expo  
-- Cloud (AWS, Azure)  
-- Cyber-security & SEO  
-- UX/UI & micro-animations  
-- DevOps, Docker, Kubernetes  
+- UX/UI & clean design  
+- Cloud technologies (AWS, Azure)  
+- Website security & SEO  
+- Docker, Kubernetes, CI/CD  
 
 ---
 
@@ -79,18 +68,12 @@ minoo.yaghoubi@gmail.com
 
 ---
 
-<!-- Optional Stats -->
+<!-- Optional stats -->
 <!--
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Minoo-YH&theme=neon-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-YH&layout=compact&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Minoo-YH&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-YH&layout=compact&theme=tokyonight"/>
 </p>
 -->
-
----
-
-<!-- Optional GitHub stats section -->
-<!--
-![GitHub Streak](https://streak-stats.demolab.com?user=Minoo-YH)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-YH&layout=compact)
+YH&layout=compact)
 -->
