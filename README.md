@@ -1,30 +1,10 @@
-<div align="center">
-
 # Hi, I'm Minoo Yaghoubi 👋
 
 ### Software Engineering Student @ Metropolia University of Applied Sciences
 
 Building modern web and mobile applications with a focus on clean architecture, great user experiences and real-world solutions.
 
-<br>
-
-<a href="https://react-vite-portfolio-five.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/minoo-yaghoubi-692b42182/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="mailto:minoo.yaghoubi2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge)](https://react-vite-portfolio-five.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minoo-yaghoubi-692b42182/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minoo-YH) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minoo.yaghoubi@gmail.com)
 
 ---
 
@@ -44,58 +24,45 @@ I'm currently expanding my experience through personal projects, university stud
 - 💻 Building Full-Stack & Mobile Applications
 - 📱 Developing personal software projects
 - 🌱 Exploring cloud technologies and modern development practices
-- 💼 Open to internship and graduate opportunities
+- 💼 Open to internship and thesis opportunities
 
 ---
+
 # 🛠 Tech Stack
 
 ## Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite" />
-</p>
+![](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite)
 
 ## Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+![](https://skillicons.dev/icons?i=react)
 
 - React Native
 - Expo
 
 ## Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,nestjs" />
-</p>
+![](https://skillicons.dev/icons?i=nodejs,express,dotnet,cs)
 
 ## Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp" />
-</p>
+![](https://skillicons.dev/icons?i=java,python,cs,cpp,ts,js)
 
 ## Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
+![](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql)
 
 - SQL Server
 - MariaDB
 
 ## Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions" />
-</p>
+![](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions)
 
 ## Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,visualstudio" />
-</p>
+![](https://skillicons.dev/icons?i=git,github,figma,postman,vscode,visualstudio)
 
 ## Software Practices
 
@@ -111,25 +78,24 @@ I'm currently expanding my experience through personal projects, university stud
 - Problem Solving
 
 ---
+
 # 🚀 Featured Projects
 
 ### 🛠 HelpDesk Ticket System
 
 A full-stack help desk platform designed for managing support tickets, user authentication and administrative workflows.
 
-**Tech Stack**
+**Tech Stack:** `ASP.NET Core` `C#` `Entity Framework Core` `SQL Server` `JWT` `Swagger` `Docker`
 
-`React` `ASP.NET Core` `SQL Server` `JWT` `REST API`
+🔗 [Repository](https://github.com/Minoo-YH/HelpDeskTicketSystem)
 
 ---
 
 ### 📱 APUA
 
-A personal mobile application created from an everyday idea and developed into a complete React Native project.
+A personal mobile application created from an everyday idea and developed into a complete React Native project — built to support senior citizens.
 
-**Tech Stack**
-
-`React Native` `Expo` `TypeScript`
+**Tech Stack:** `React Native` `Expo` `TypeScript` `REST API`
 
 ---
 
@@ -137,9 +103,7 @@ A personal mobile application created from an everyday idea and developed into a
 
 A modern web platform focused on connecting people with support services through an intuitive and responsive user experience.
 
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
+**Tech Stack:** `React` `Node.js` `Express` `PostgreSQL` `JWT`
 
 ---
 
@@ -147,69 +111,24 @@ A modern web platform focused on connecting people with support services through
 
 A professional company website developed during my internship with a focus on responsive design and modern frontend development.
 
-**Tech Stack**
-
-`React` `JavaScript` `CSS`
+**Tech Stack:** `WordPress` `PHP` `JavaScript` `CSS`
 
 ---
-
-### 💻 Full-Stack Website
-
-A complete full-stack application with authentication, REST APIs and database integration.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
----
-
-### 🌍 Portfolio Website
-
-My personal portfolio showcasing projects, skills and software engineering experience.
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `Framer Motion`
 
 # 📊 GitHub Statistics
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=Minoo-YH&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minoo-YH&layout=compact&theme=github_dark&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
+![](https://streak-stats.demolab.com?user=Minoo-YH&theme=github-dark&hide_border=true)
 
 ---
 
 # 🌍 Let's Connect
 
-<p align="center">
-
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://react-vite-portfolio-five.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minoo-yaghoubi-692b42182/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minoo.yaghoubi@gmail.com)
 
 ---
-
-<div align="center">
 
 ### Thanks for visiting my profile! 👋
 
@@ -217,14 +136,13 @@ Building software isn't just what I do—it's how I learn, solve problems and cr
 
 ⭐ Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate.
 
-</div>
 # 🌱 Currently Learning
 
 - Cloud Architecture
 - Kubernetes & Docker
 - Azure Services
 - Software Design Patterns
-- AI-Assisted Development
+- AI-Assisted Development & AI Agents
 - Advanced .NET Development
 
 ---
@@ -232,7 +150,7 @@ Building software isn't just what I do—it's how I learn, solve problems and cr
 # 🎯 2026 Goals
 
 - 🚀 Build production-ready software
-- 📱 Continue improving the APUA mobile application
+- 📱 Launch the APUA mobile application
 - ☁️ Expand my Cloud & DevOps skills
 - 🤝 Contribute to Open Source projects
 - 💼 Start my Software Engineering career in Finland
@@ -249,13 +167,7 @@ Building software isn't just what I do—it's how I learn, solve problems and cr
 
 ---
 
-<div align="center">
-
-### Thanks for visiting my GitHub!
-
 *"Great software is built through curiosity, consistency and a genuine desire to solve real problems."*
 
 ⭐ If you enjoy my work, feel free to explore my repositories or connect with me.
-
-</div>
 
