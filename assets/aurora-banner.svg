@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Minoo Yaghoubi developer banner">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1021"/><stop offset=".52" stop-color="#21153e"/><stop offset="1" stop-color="#102b42"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b982ff"/><stop offset=".5" stop-color="#ff73b3"/><stop offset="1" stop-color="#59e5e3"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="42"/></filter>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<ellipse cx="210" cy="75" rx="230" ry="85" fill="#9b5de5" opacity=".22" filter="url(#blur)"><animate attributeName="cx" values="210;310;210" dur="9s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1040" cy="250" rx="240" ry="90" fill="#00d4cf" opacity=".2" filter="url(#blur)"><animate attributeName="cx" values="1040;900;1040" dur="11s" repeatCount="indefinite"/></ellipse>
+<g opacity=".25" stroke="#b99ef2" fill="none"><path d="M0 58H1200M0 114H1200M0 170H1200M0 226H1200M0 282H1200"/><path d="M70 0V320M190 0V320M310 0V320M430 0V320M550 0V320M670 0V320M790 0V320M910 0V320M1030 0V320M1150 0V320"/></g>
+<rect x="56" y="52" width="170" height="30" rx="15" fill="#31224f" stroke="#a875e9" stroke-opacity=".8"/>
+<text x="141" y="72" fill="#ead9ff" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" letter-spacing="2">HELLO, I'M</text>
+<text x="55" y="151" fill="#ffffff" font-family="Arial,sans-serif" font-size="62" font-weight="700">Minoo Yaghoubi</text>
+<rect x="56" y="171" width="660" height="4" rx="2" fill="url(#glow)"/>
+<text x="56" y="218" fill="#d4c3ff" font-family="Arial,sans-serif" font-size="25" font-weight="600">Full-Stack · Mobile · UI/UX</text>
+<text x="57" y="259" fill="#a7dce1" font-family="Arial,sans-serif" font-size="17">Designing the experience. Building the product.</text>
+<g transform="translate(890 65)" font-family="monospace" font-size="28" font-weight="700"><rect width="245" height="188" rx="19" fill="#12182c" stroke="#7961b8"/><text x="29" y="58" fill="#ff82c4">&lt;design&gt;</text><text x="50" y="104" fill="#86ece4">{ build(); }</text><text x="29" y="152" fill="#c69cff">&lt;/create&gt;</text><circle cx="216" cy="22" r="5" fill="#ff82c4"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle></g>
+</svg>
